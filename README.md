@@ -1,8 +1,6 @@
 # Intelligent-Water-Distribution-and-Monitoring-System
 Intelligent Water Distribution and Monitoring System
 
-Youtube link for demonstration video: https://youtu.be/y5hNoUl6csE
-
 Project Idea
 
 The project Intelligent water distribution system, as the name says it is all about management of water supply throughout the scale, right from small societies, townships to entire urban infrastructure and also for irrigation water supply management. The main task of the water distribution system is to maintain the water in the tank and also generate the water bills to the individual households which involve human efforts. This system can be automated using the Internet of things.
